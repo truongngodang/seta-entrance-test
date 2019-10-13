@@ -1,0 +1,26 @@
+.container {
+    padding: 10px 0;
+    border-bottom: 1px solid #cccccc;
+}
+.inputTitle {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    font-weight: 700;
+}
+.inputBody {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+}
+
+button {
+    padding: 10px 30px;
+    border: none;
+    background: rgba(3,169,244,1);
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
